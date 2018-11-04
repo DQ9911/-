@@ -20,3 +20,12 @@ struct mat{
         return ret;
     }
 };
+
+/*
+调用方法:
+mat A, B;
+初始化矩阵A
+B = A.pow(n)即A ^ n的结果(模意义下)
+*/
+
+
