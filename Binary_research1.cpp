@@ -1,3 +1,4 @@
+//求方程e^x + x - 5的根...
 double f(double x) {
     return exp(x) + x - 5;
 }
