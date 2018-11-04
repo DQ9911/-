@@ -1,3 +1,4 @@
+//快速幂... 模意义下
 const int mod = 1e9 + 7;
 typedef long long ll; //使用long long类型很重要...
 ll quick_pow(ll a, ll b) {
