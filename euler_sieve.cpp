@@ -1,3 +1,4 @@
+//欧拉筛 or 线性筛...
 const int N = 1e6 + 7;
 bool np[N];
 int p[N / 8], pn = 0;
